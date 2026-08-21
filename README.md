@@ -2,6 +2,9 @@
   <img src="https://media.tenor.com/x0N1Lk8QfZ0AAAAi/flowers.gif" width="20%">
 </p>
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/e34e64bd477605db73c878ece430baefba4549ba6b92068671ab99771fd8f8ed/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f64656565366134393565343337373037656539376663656531633230373565652f366561626538636435336133653230622d30362f733132383078313932302f393262393336663731306635363536326464383338653439363963316131393534333165313165302e67696676" width="70%">
+</p>
 
 <p align="center">$\color{#69d1ec}{\text{Hii! im 4rt. Its very nice to meet you!}}$</p>
 
@@ -28,6 +31,8 @@
 <p align="center">$\color{#69d1ec}{\text{Languages: Viet/Eng (prefer Eng for safe server)}}$</p>
 
 <p align="center">$\color{#69d1ec}{\text{Shout out my nice friends from Ponytown!!:}}$</p>
+
+<p align="center">$\color{#69d1ec}{\text{⭑꒷꒦ . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁. ꒦꒷⭑}}$</p>
 
 <p align="center">$\color{#69d1ec}{\text{@ADelightfulNewDeath, @zyreniscool, @W4SH3RCANW4LK, @xdisturb-x1, @ToxicDaisyTLG,(...))}}$</p>
 
